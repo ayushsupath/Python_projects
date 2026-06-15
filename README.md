@@ -7,5 +7,6 @@ A collection of beginner Python projects focused on logic building, with clean S
 - **ATM Simulator** - Deposit, Withdraw, Check Balance with transaction history (Streamlit UI)
 - **File Manager** - Create, Read, Update, Delete files (Streamlit UI)
 - **Password Generator** - Customizable random password generator with strength meter (Streamlit UI)
+- **Student Grade Calculator** - Calculator for calculate your marks and give a grade(Streanlit UI)
 
 ## More coming soon...
